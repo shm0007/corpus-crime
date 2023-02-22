@@ -2043,41 +2043,7 @@ sketch of the right-hand wing of the house. The small staircase leads,
 as Parker explained, to a big bedroom (made by two being knocked into
 one) and an adjoining bathroom and lavatory.
 
-[Illustration:
 
-  +------------------------------------.
-  |             TERRACE                 .
-  |--==--+--==---==--+---==---==----+    .
-  |PANTRY|   DINING  |    DRAWING   |    .
-  |      |    ROOM   |     ROOM     |    .
-  |      |           |              |    .
-  |___/ _+___/ __/  _+_/ +__________+    .
-  |                      |          |    .
-  |___  ___+____+         \STAIRS‖‖‖|    .
-  |   \    |====|        +-- /------+    .
-  |        |====|        |          |    .
-  |BILLIARD|====|  HALL  |          |    .
-  |  ROOM  |====|        |  STUDY   ‖    .
-  |        +----+        |          ‖    .
-  |        |STAIRCASE    |          |    .
-  |        |             |          |    .
-  |       \              |          |    .
-  +-==-==--+-------+  +--+----------+-  -+
-                   |  |              .  .
-                FRONT DOOR          .  .
-                 .      .          .  .
-                 .      .         .  .
-                  .    .         .  .
-                   .  .     PATH  .
-                   .  .      .  .    ..
-           LAWN    .  .     .  .   .    .
-                   .  .   .  .     .    .
-                   .  . .  .         ..
-                   .  . . .       SUMMER
-                   .  +---+       HOUSE
-                   .  |   |LODGE
-  -----------------+  +---+--------------
-]
 
 The inspector took in the position at a glance. We went through into
 the large hall and he locked the door behind him, slipping the key into
@@ -3069,31 +3035,6 @@ marked with an X.
 
 “Just show me,” said Poirot.
 
-[Illustration:
-
-  +----------------      +-----------------+
-  |    +           DOOR /  GRANDFATHER     |
-  |   / \              /   CHAIR   +---+   |
-  |  /   +                          ]  |   |
-  | +   / SMALL                  X  ]  |   |
-  |  \ /  TABLE                    +---+   |
-  |   +                                    |
-  +++                                      |
-  |||  +---+ CHAIR IN WHICH          ___   |
-  |||   ]  | ACKROYD WAS            /   \  |
-  |||  +---+ FOUND           TABLE |     | |
-  |||                               \___/  |
-  |||                                      |
-  |||                                      |
-  +++  +---+                           +   |
-  | ^   ]  | CHAIR IN WHICH           / \  |
-  | |  +---+ SHEPPARD SAT          / /   + |
-  | |                               /   /  |
-  | |                       DESK & +   /   |
-  | |   FIREPLACE           CHAIR   \ /    |
-  | +------------                    +     |
-  +----------------------------------------+
-]
 
 The butler drew the chair in question out a good two feet from the
 wall, turning it so that the seat faced the door.
