@@ -22,5 +22,6 @@ Book list:
 
 
 ## Data Processing
-Project Gutenberg Header and Footer are removed manualy, so did the text illustrations
+- Project Gutenberg Header and Footer are removed manualy.
+- Text illustrations are removed
 
